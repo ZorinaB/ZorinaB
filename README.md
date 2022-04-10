@@ -1,9 +1,10 @@
-### Hi there 👋
+<div align="center">
+### `No Need To Rush` ☘️
+### FrontEnd Engineer
+Full Time Student.
 
+### Interests
 
-- 🔭 I’m currently working on Building my first website
-- 🌱 I’m currently learning HTML, CSS, React, and JavaScript
-- 📫 How to reach me: ZorinaBedford@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+☄️ &nbsp; Java. 
+💻 &nbsp; Python. 
+📇 &nbsp; javascript. 
