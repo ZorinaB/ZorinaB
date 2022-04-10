@@ -1,5 +1,5 @@
 <div align="center">
-### `No Need To Rush` ☘️
+### No Need To Rush ☘️
 ### FrontEnd Engineer
 Full Time Student.
 
