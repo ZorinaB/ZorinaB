@@ -1,5 +1,6 @@
 <div align="center">
-### No Need To Rush ☘️
+  
+### 💻 It Will Be Okay 💻
 ### FrontEnd Engineer
 Full Time Student.
 
